@@ -1,0 +1,3 @@
+#简介
+
+采用gulp构建工具 根据angularjs自己设定好的controller、service、temple模板 快速构建angularjs项目
